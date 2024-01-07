@@ -21,4 +21,5 @@ The model was structured with three main components: the ResNet, a pooling layer
 
 The training configuration included setting the number of epochs to 10 and the batch size to 128 to prevent overfitting during the training process.
 
-The final score is 0.11526.
+The final score is 0.11526 as shown in the screenshot below.
+![final model performance](performance.png)
